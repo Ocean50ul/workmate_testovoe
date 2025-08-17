@@ -1,8 +1,8 @@
-##Requirements. 
+## Requirements. 
 
 pytest, tabulate.
 
-##Usage 
+## Usage 
 
 `python main.py --file file1.log file2.log --report average --date `
 
@@ -12,3 +12,4 @@ To add new report type:
 - Add new match case to the main.
 
 Filtering is done via `build_report` function.
+
