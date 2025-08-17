@@ -2,7 +2,7 @@ Requirements: pytest, tabulate.
 
 Usage: `python main.py --file file1.log file2.log --report average --date `
 
-To add new report type.
+To add new report type:
 
     - Add new report class into the reports package. 
 
@@ -13,3 +13,4 @@ To add new report type.
 
 
 Any filtering is done via `build_report` function.
+
