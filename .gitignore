@@ -1,0 +1,4 @@
+.pytest_cache
+**/__pycache__
+example1.log
+example2.log
